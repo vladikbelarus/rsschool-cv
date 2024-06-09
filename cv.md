@@ -5,4 +5,5 @@
 **Пример кода:**<br>
 function multiply(a, b){<br>
   return a * b<br>
-}
+}<br>
+Знание анлийского - B2
